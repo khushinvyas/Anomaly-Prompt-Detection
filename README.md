@@ -90,12 +90,11 @@ jupyter notebook
 ```
 spectra-ai-anomaly-detection/
 │
-├── spectra_ai_anomaly_detection.ipynb  # Main notebook
+├── Anomaly_Prompt_Detection.ipynb  # Main notebook
 ├── README.md                            # This file
-├── requirements.txt                     # Python dependencies
 ├── anomaly_detection_visualization.png  # Output visualization 1
 ├── distance_distribution.png            # Output visualization 2
-└── report.pdf                          # Project report (if applicable)
+└── report.pdf                          # Project report
 ```
 
 ## 🔍 How It Works
